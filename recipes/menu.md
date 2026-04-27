@@ -1,0 +1,7 @@
+# Menu
+
+## Drinks
+
+- Coffee
+
+## Foods
